@@ -1,2 +1,2 @@
 # TravelsofTime
-# Shift is the grab button
+Shift is the grab button, R is the reset.
